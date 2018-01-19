@@ -1,4 +1,6 @@
 # svg-woes
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/cdaringe/svg-woes.svg)](https://greenkeeper.io/)
 A very cute app
 
 ## Routes
